@@ -5,7 +5,7 @@ The goal of this analysis is to develop predictive models capable of identifying
 The dataset used in this analysis includes valuable information about individuals, such as age, gender, occupation, country of residence, mental health condition and severity, consultation history, stress levels, sleep hours, work hours, and physical activity.
 
 ## Data
-The mental health dataset, sourced from Kaggle, includes eleven baseline variables, both numerical and categorical. The target column indicates whether or not the individual has a mental health condition.
+The mental health dataset, sourced from Kaggle, includes eleven baseline variables, both numerical and categorical. The target column indicates whether or not the individual has a mental health condition. The data is balanced.
 
 
 ## Modeling and Performance
