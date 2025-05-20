@@ -15,7 +15,7 @@ In this project, we evaluated various classification models to predict mental he
 * Random Forest
 * XGBoost
 
-Each model was trained and tested using a train/test data split, followed by cross-validation. Performance was optimized using GridSearchCV, Polynomial Features (for Logistic Regression), and parameter tuning in Random Forest.
+Each model was trained and tested using a train/test data split, followed by cross-validation. Polynomial Features was used for Logistic Regression. Performance was optimized using GridSearchCV and parameter tuning in Random Forest.
 Among all models, Logistic Regression delivered the best performance with the least overfitting. The results were as follows:
 
 * Accuracy: 53%
