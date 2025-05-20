@@ -40,14 +40,13 @@ Additionally, by generating SHAP plots to interpret the model, we observed that 
 
 ## Next Step and Recommendations
 The model does not yet offer a strong representation of the data. If this were a model to be used in a healthcare center, it might not justify the allocation of resources given that it only correctly identifies 53% of those in need. Therefore, it is recommended to continue exploring additional datasets that either complement the current variables or introduce new ones associated with the development of mental health conditions. This could provide more comprehensive information for building effective action plans. Nonetheless, the current model reveals important relationships that can guide future research and intervention strategies.
-Actionable Insights
-Personalized Care:
- Develop individualized treatment plans that take the patient's gender into account to optimize care and effectively manage mental health conditions.
 
+## Actionable Insights
+* Personalized Care:
+ Develop individualized treatment plans that take the patient's gender into account to optimize care and effectively manage mental health conditions.
 
 * Stress Management Education and Tools:
  Provide patients with educational resources and tools to manage stress, such as breathing techniques, support groups, and access to counseling services.
-
 
 * Awareness of Work-Life Balance:
  Raise awareness about the negative impact of long working hours on mental health. Promote a healthy balance between work, leisure, and rest.
