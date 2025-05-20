@@ -1,14 +1,14 @@
-#Mental Health
-##Business Goal
+# Mental Health
+## Business Goal
 Mental health plays a fundamental role in both individual well-being and societal stability. Poor mental health can negatively affect quality of life, job performance, and relationships with family, friends, and the broader community. Mental health disorders are highly prevalent, impacting hundreds of millions of people every year and many more at some point in their lives.
 The goal of this analysis is to develop predictive models capable of identifying mental health conditions based on various medical and demographic features. Understanding the factors associated with mental illness is essential for researchers and healthcare professionals, as it enables better diagnosis, prevention, and treatment.
 The dataset used in this analysis includes valuable information about individuals, such as age, gender, occupation, country of residence, mental health condition and severity, consultation history, stress levels, sleep hours, work hours, and physical activity.
 
-##Data
+## Data
 The mental health dataset, sourced from Kaggle, includes eleven baseline variables, both numerical and categorical. The target column indicates whether or not the individual has a mental health condition.
 
 
-##Modeling and Performance
+## Modeling and Performance
 In this project, we evaluated various classification models to predict mental health conditions using the Kaggle dataset. The models tested were:
 Logistic Regression
 
@@ -29,7 +29,7 @@ Recall: 70%
 
 This means the model correctly identifies mental health conditions in 70% of relevant cases and has an overall accuracy of 53%. Although the accuracy is not high, the model is useful for identifying individuals who do in fact present a mental health condition, which is especially relevant in public health contexts.
 
-##Conclusions
+## Conclusions
 The model revealed a significant relationship between certain features and the target variable (mental health condition). Specifically:
 Countries such as Australia and Germany showed lower coefficients, suggesting fewer cases of mental health issues.
 
